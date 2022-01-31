@@ -1,5 +1,3 @@
-# Alpha
-
  #include <iostream>
   
   int main(){
